@@ -3,7 +3,6 @@
     "id": "1",
     "title": "Чай Arizona",
     "vendor_code": "111",
-    "description": "Оригинальный холодный чай AriZona Green Tea with Honey (зелененый чай с медом) – это освежающий, безалкогольный и негазированный напиток, приготовленный из отборного зеленого чая и подслащенный душистым медом.",
     "price": 500,
     "img": "https://i.pinimg.com/736x/10/5f/36/105f36ef67dc7d947b5a085dc85f0f1a.jpg"
   },
@@ -11,7 +10,6 @@
     "id": "2",
     "title": "Mountain Dew",
     "vendor_code": "222",
-    "description": "Отправляйтесь в удивительное путешествие в мир аутентичного вкуса с безалкогольным сильногазированным прохладительным напитком Mountain Dew. ",
     "price": 450,
     "img": "https://image.globus.ru/web/55/54/4445554.jpg"
   },
@@ -19,7 +17,6 @@
     "id": "3",
     "title": "Monster Energy",
     "vendor_code": "333",
-    "description": "Энергетик Монстр - всемирно известный энергетический напиток, который поражает своим разнообразием вкусов.",
     "price": 500,
     "img": "https://i.ebayimg.com/images/g/kUIAAeSwbG9ogDQ5/s-l1600.jpg"
   },
@@ -27,7 +24,6 @@
     "id": "4",
     "title": "Dr.Pepper Vanila",
     "vendor_code": "444e",
-    "description": "Dr Pepper Vanilla Float — это уникальный напиток, который сочетает в себе культовый вкус Dr Pepper с нежными нотами ванили, создавая неповторимую композицию",
     "price": 400,
     "img": "https://ir.ozone.ru/s3/multimedia-0/c1000/6016937172.jpg"
   }
@@ -36,7 +32,6 @@
     "id": "5",
     "title": "Coca Cola",
     "vendor_code": "4445e",
-    "description": "Газированный напиток Coca-Cola - один из самых популярных безалкогольных напитков в истории, а также один из наиболее узнаваемых брендов в мире.",
     "price": 400,
     "img": "https://cdn1.ozone.ru/s3/multimedia-1-q/7814854250.jpg"
   },
@@ -44,7 +39,6 @@
     "id": "6",
     "title": "FINI Marshmellow",
     "vendor_code": "4446e",
-    "description": "Мягкий зефир",
     "price": 400,
     "img": "https://static.insales-cdn.com/images/products/1/4721/686150257/1.jpg"
   },
@@ -52,7 +46,6 @@
     "id": "7",
     "title": "Haribo Berries",
     "vendor_code": "4447e",
-    "description": "Мармелад ягодный от известной компании Haribo",
     "price": 700,
     "img": "https://ir.ozone.ru/s3/multimedia-j/6164868823.jpg"
   },
@@ -60,8 +53,8 @@
     "id": "8",
     "title": "Milka XL",
     "vendor_code": "4448e",
-    "description": "Шоколад Milka",
     "price": 800,
     "img": "https://cdn1.ozone.ru/s3/multimedia-1-a/7279009030.jpg"
   }
+
 ]
